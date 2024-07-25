@@ -1,6 +1,6 @@
 本地包版本:20240724-1
 作者:道长
-QQ群:824179147
+
 PC:zyplayer 与 Mobile:easybox 通用
 easybox 支持网盘源播放，如阿里土豆。zyplayer暂不支持
 
